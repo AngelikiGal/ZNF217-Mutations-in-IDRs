@@ -50,9 +50,9 @@ where the 8th residue was N and was mutated to H and this mutation had a deleter
 It should be noted that the proteins and their motifs are already included in the tool, and in order to use this tool for different kinases the code should me altered. 
 The kinases and their motifs included in this tool are displayed below:
 
->MAPK: [KR]{0,2}[KR].{0,2}[KR].{2,4}[ILVM].[ILVF], ...[ST]P..
->MAPKAPK1: Kinase, "[RK].R..S",mod
->MAPKAPK2: Kinase, "S...[ST]",mod
+>MAPK: [KR]{0,2}[KR].{0,2}[KR].{2,4}[ILVM].[ILVF], ...[ST]P..  
+>MAPKAPK1: Kinase, "[RK].R..S",mod  
+>MAPKAPK2: Kinase, "S...[ST]",mod  
 >ERK1: Kinase, "[RK].{2,4}[LIVP]P.[LIV].[LIVMF]|[RK].{2,4}[LIVP].P[LIV].[LIVMF]",doc,"[RK].{2,4}[LIVMP].[LIV].>[LIVMF]",doc,"SP",mod,"..SP",mod,".[ST]P",mod
 >ERK2: Kinase, "[RK].{2,4}[LIVP]P.[LIV].[LIVMF]|[RK].{2,4}[LIVP].P[LIV].[LIVMF]",doc,"[RK].{2,4}[LIVMP].[LIV].>[LIVMF]",doc,"SP",mod,"..SP",mod,".[ST]P",mod
 >GSK-3: Kinase, "..SP",mod,".[ST]P",mod,"...[ST]...[ST]",mod
