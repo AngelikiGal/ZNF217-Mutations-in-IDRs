@@ -13,7 +13,7 @@ This tool is written in Python 2 and therefore, it can run in most operating sys
 
 ## Needed files
 
-PhosphoKin uses as input two .txt files and one .xlsx file; one containing the protein sequence (.txt), one containing the protein’s IDRs (.txt) and one containing the mutated residues found in the protein (.xlsx).
+The tool uses as input two .txt files and one .xlsx file; one containing the protein sequence (.txt), one containing the protein’s IDRs (.txt) and one containing the mutated residues found in the protein (.xlsx).
 
 
 ### 1.) The Protein Sequence file:
