@@ -7,7 +7,7 @@ This tool identifies point mutations and short linear motifs regions (SLiMs) in 
 
 # Requirements
 
-This tool is written in Python 2 and, therefore, it can be run in most operating systems.
+This tool is written in Python 2 and therefore, it can run in most operating systems.
 
 # How to run
 
