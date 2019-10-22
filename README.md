@@ -34,7 +34,7 @@ e.g.
 >[1]-[51], [107]-[122]
 
 ### 2.) The Mutations file:
-The file must have two columns. The first will contain the mutated residues and the second the Functional impact. In the first row the names of each column: cell [0,1] should be "Mutations" and cell [0,2] should be "Functional Impact"
+The file must have two columns. The first will contain the mutated residues and the second the functional impact. In the first row the names of each column: cell [0,1] should be "Mutations" and cell [0,2] should be "Functional Impact"
 
 e.g.
 
@@ -115,7 +115,7 @@ First is the name of the protein, after the ":" character is the type of the pro
 
 `python2 ZNF-217_ALL.py`
 
-This tool will not ask from the user to separately give each file needed as an input. The needed input files should be present in the same folder as the tool before the running. The names of the input files should be:  "ZNF271_Sequence.txt",  "ZNF217_disordered_regions.txt" and "ZNF217_mutations.xlsx"
+This tool will not ask from the user to separately give each file needed as an input. The needed input files should be present in the same folder as the tool before running the script. The names of the input files should be:  "ZNF271_Sequence.txt",  "ZNF217_disordered_regions.txt" and "ZNF217_mutations.xlsx"
 
 # The output
 
